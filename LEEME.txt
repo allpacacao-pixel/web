@@ -1,2 +1,0 @@
-Copia aquí la carpeta img de la versión anterior de la web (imagen-01.jpg, imagen-02.jpg, imagen-04.jpg, imagen-07.png y las demás).
-imagen-07.png es Kao. Si falta, la página muestra un dibujo de reemplazo.
